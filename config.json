@@ -2,10 +2,10 @@
     "Version": "1.0.1",
     "ReleaseNotes": "APP JA ESTA ON-LINE TODAS AS OPERADORA ESTAO FUNCIONADO VIVO CLARO OI TIMrnrnrn⚠️A OI PODE FICA INSTAVEL EM ALGUMAS REGIOES⚠️rnrn⚙ENTRE NA CONFIGURAÇÃO ATIVE AUTO PING⚙",
     "Sms": "",
-    "UrlUpdate": "",
-    "EmailFeedback": "https://api.whatsapp.com/send?phone=5519997618549&text=OLA%20QUERO%20SER%20VIP",
+    "UrlUpdate": "https://github.com/netfreeplus/Netcol-vip/raw/main/config.json",
+    "EmailFeedback": "",
     "UrlContato": "",
-    "UrlTermos": "https://api.whatsapp.com/send?phone=5519997618549&text=OLA%20QUERO%20ACESSO%20VIP%2030%20dias",
+    "UrlTermos": "",
     "CheckUser": "true",
     "Udp": [
         {
@@ -29,7 +29,7 @@
             "Name": "⚡BRASIL 01⚡",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "gringobr.online",
+            "ServerIP": "66.90.89.92",
             "CheckUser": "http://188.34.165.15:7100/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
